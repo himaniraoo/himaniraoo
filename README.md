@@ -8,7 +8,7 @@ I'm a 3rd year CSE student @ PES University. I like building applications for in
 
 ### 🔭 What I'm into
 
-- 🎓 B.Tech CSE at PES University, Bengaluru (2023–2027) — CGPA 9.17/10
+- 🎓 B.Tech CSE at PES University, Bengaluru (2023–2027) — CGPA 9.18/10
 - 💼 Currently an **AI Engineering Intern @ DocNexus**, building AI agents for healthcare analytics
 - 🧠 Generative AI, NLP, and parts of ML pipelines — data cleaning, evaluation design, ablations
 - 🩰 Recently published: **real-time Bharatanatyam gesture recognition** using skeletal landmarks (81.96% LOSO accuracy) — including building the underlying dataset of 11,000+ videos from scratch
