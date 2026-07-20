@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Himani 👋</h1>
 
 <p align="center">
-I'm a 3rd year CSE student @ PES University. I like building applications for interesting and impactful problems, alongside equally curious people. I'm also just genuinely drawn to finding patterns in data.
+I'm a final year CSE student @ PES University. I like building applications for interesting and impactful problems, alongside equally curious people. I'm also just genuinely drawn to finding patterns in data.
 </p>
 
 ---
